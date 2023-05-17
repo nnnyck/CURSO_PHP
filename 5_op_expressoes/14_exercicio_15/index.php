@@ -8,6 +8,6 @@ if($a == $b){
     echo "Verdadeiro <br>";
 }
 
-if($a != $c){
+if($a == $c){
     echo "Falso <br>";
 }
